@@ -1,0 +1,12 @@
+.grid{
+    display: grid;
+    grid-template-columns: 15% 50% 35%;
+}
+.grid div{
+    background: #ecf0f1;
+    padding: 1em;
+
+}
+.grid div:hover{
+    border: 1px solid #f1c40f;
+}
